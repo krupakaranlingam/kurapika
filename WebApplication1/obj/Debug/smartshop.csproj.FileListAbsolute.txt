@@ -1,0 +1,9 @@
+c:\Users\765056\documents\visual studio 2012\Projects\Solution1\WebApplication1\bin\WebApplication1.dll
+c:\Users\765056\documents\visual studio 2012\Projects\Solution1\WebApplication1\bin\WebApplication1.pdb
+c:\Users\765056\documents\visual studio 2012\Projects\Solution1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\Users\765056\documents\visual studio 2012\Projects\Solution1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\765056\documents\visual studio 2012\Projects\Solution1\WebApplication1\bin\SSM_DBLIB.dll
+C:\Users\765056\documents\visual studio 2012\Projects\Solution1\WebApplication1\bin\UIValidatorLIB.dll
+C:\Users\765056\documents\visual studio 2012\Projects\Solution1\WebApplication1\bin\SSM_DBLIB.pdb
+C:\Users\765056\documents\visual studio 2012\Projects\Solution1\WebApplication1\bin\UIValidatorLIB.pdb
+C:\Users\765056\documents\visual studio 2012\Projects\Solution1\WebApplication1\obj\Debug\smartshop.csprojResolveAssemblyReference.cache

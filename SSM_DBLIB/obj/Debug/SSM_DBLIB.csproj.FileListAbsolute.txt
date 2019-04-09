@@ -1,0 +1,4 @@
+C:\Users\765056\documents\visual studio 2012\Projects\Solution1\SSM_DBLIB\bin\Debug\SSM_DBLIB.dll
+C:\Users\765056\documents\visual studio 2012\Projects\Solution1\SSM_DBLIB\bin\Debug\SSM_DBLIB.pdb
+C:\Users\765056\documents\visual studio 2012\Projects\Solution1\SSM_DBLIB\obj\Debug\SSM_DBLIB.dll
+C:\Users\765056\documents\visual studio 2012\Projects\Solution1\SSM_DBLIB\obj\Debug\SSM_DBLIB.pdb
